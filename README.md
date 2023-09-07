@@ -1,3 +1,6 @@
+1. диаграмма
+
+
 https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit
 
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/3d8e963d-7391-40b3-9227-33be4e711ac0)
