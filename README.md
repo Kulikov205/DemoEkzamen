@@ -21,3 +21,14 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 Описание ПО на флешке
 ---
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/356134a1-12c1-40dc-abb5-90d1a7753791)
+
+---
+
+Visual Studio
+---
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/34971a40-5b33-46c2-b689-9abacaa4a4d4)
+
+---
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/5891ef55-3cfb-4e55-b977-dd5f8221d8fe)
+
+---
