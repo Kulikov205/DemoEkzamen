@@ -15,3 +15,9 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 10 баллов - 3</br>
 20 баллов - 4</br>
 30 баллов - 5</br>
+
+---
+
+Описание на флешке
+---
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/356134a1-12c1-40dc-abb5-90d1a7753791)
