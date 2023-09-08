@@ -18,6 +18,6 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 
 ---
 
-Описание на флешке
+Описание ПО на флешке
 ---
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/356134a1-12c1-40dc-abb5-90d1a7753791)
