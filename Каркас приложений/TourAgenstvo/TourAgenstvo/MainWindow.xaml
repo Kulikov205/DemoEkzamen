@@ -1,0 +1,33 @@
+﻿<Window x:Class="TourAgenstvo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TourAgenstvo"
+        mc:Ignorable="d"
+        Title="Turagenstvo" Height="450" Width="800" >
+    <Grid ShowGridLines="True">
+        
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" ></RowDefinition>
+           
+        </Grid.RowDefinitions>
+
+        <Border Background="#FFE8C57B" Grid.ColumnSpan="2"/>
+        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2">
+            <TextBlock
+                   Margin="40 0 0 0"
+                   FontSize="32" 
+                   Foreground="Purple"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontFamily="Arial Black">
+            Туристическое агенство</TextBlock>
+            <Image Source="logo.jpg" Stretch="Fill" HorizontalAlignment="Left" MaxHeight="130" MaxWidth="130"/>
+
+            <Button Click="Back_Click" Height="50" Background="#FFF08CA7" Foreground="#FFC54EE0" Margin="40 0 0 0">Авторизация</Button>
+        </StackPanel>
+
+
+    </Grid>
+</Window>
