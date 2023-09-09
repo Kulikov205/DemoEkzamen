@@ -11,11 +11,12 @@
 
         <Grid.RowDefinitions>
             <RowDefinition Height="auto" ></RowDefinition>
-           
+            <RowDefinition Height="*" ></RowDefinition>
         </Grid.RowDefinitions>
 
         <Border Background="#FFE8C57B" Grid.ColumnSpan="2"/>
         <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2">
+            <Image Source="logo.png" Stretch="Fill" HorizontalAlignment="Right" MaxHeight="130" MaxWidth="130"/>
             <TextBlock
                    Margin="40 0 0 0"
                    FontSize="32" 
@@ -23,7 +24,7 @@
                    HorizontalAlignment="Center" VerticalAlignment="Center"
                    FontFamily="Arial Black">
             Туристическое агенство</TextBlock>
-            <Image Source="logo.jpg" Stretch="Fill" HorizontalAlignment="Left" MaxHeight="130" MaxWidth="130"/>
+            
 
             <Button Click="Back_Click" Height="50" Background="#FFF08CA7" Foreground="#FFC54EE0" Margin="40 0 0 0">Авторизация</Button>
         </StackPanel>
