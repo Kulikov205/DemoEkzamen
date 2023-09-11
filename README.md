@@ -32,7 +32,7 @@ Visual Studio
 SSMS
 ---
 
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/f225c1c8-afc5-4640-95ad-93a2d9074c94)
+
 
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/64d4b884-edab-44f5-beb8-f37f5c13da2a)
 
