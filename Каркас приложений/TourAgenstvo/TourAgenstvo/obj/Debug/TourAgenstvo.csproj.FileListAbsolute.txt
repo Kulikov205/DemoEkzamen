@@ -28,3 +28,4 @@ E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\o
 E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\TourAgenstvo.csproj.CoreCompileInputs.cache
 E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\TourAgenstvo.exe
 E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\TourAgenstvo.pdb
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\TourAgenstvo.csproj.AssemblyReference.cache
