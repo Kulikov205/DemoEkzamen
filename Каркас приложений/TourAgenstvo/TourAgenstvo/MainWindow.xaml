@@ -24,11 +24,10 @@
                    HorizontalAlignment="Center" VerticalAlignment="Center"
                    FontFamily="Arial Black">
             Туристическое агенство</TextBlock>
-            
 
             <Button Click="Back_Click" Height="50" Background="#FFF08CA7" Foreground="#FFC54EE0" Margin="40 0 0 0">Авторизация</Button>
         </StackPanel>
 
-
+        <Frame Grid.Row="1" Name="MainFrame"></Frame>
     </Grid>
 </Window>

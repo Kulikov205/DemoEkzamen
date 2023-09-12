@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\
 TourAgenstvo
 none
 false
 DEBUG;TRACE
-E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\App.xaml
-1219584333
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\App.xaml
+4-69238630
 
-6-502434485
-13-1310406943
-MainWindow.xaml;
+10391491876
+13-1505183044
+pages\avtorizacia.xaml;pages\admin.xaml;MainWindow.xaml;pages\user.xaml;
 
-False
+True
 

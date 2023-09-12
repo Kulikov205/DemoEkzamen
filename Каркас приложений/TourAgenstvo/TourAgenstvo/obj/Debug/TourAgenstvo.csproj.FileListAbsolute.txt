@@ -29,3 +29,9 @@ E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\o
 E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\TourAgenstvo.exe
 E:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\TourAgenstvo.pdb
 D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\TourAgenstvo.csproj.AssemblyReference.cache
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\pages\admin.g.cs
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\pages\user.g.cs
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\pages\admin.baml
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\pages\user.baml
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\pages\avtorizacia.g.cs
+D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\obj\Debug\pages\avtorizacia.baml

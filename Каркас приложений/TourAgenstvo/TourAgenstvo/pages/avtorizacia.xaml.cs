@@ -16,20 +16,27 @@ using System.Windows.Shapes;
 namespace TourAgenstvo
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для avtorizacia.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class avtorizacia : Page
     {
-        public MainWindow()
+        public avtorizacia()
         {
             InitializeComponent();
-            MainFrame.Navigate(new avtorizacia());
-            Manager.MainFrame = MainFrame;
         }
 
-        private void Back_Click(object sender, RoutedEventArgs e)
+        private void Vxod(object sender, RoutedEventArgs e)
         {
-            
+            if (login.Text == "root" && password.Text == "12345") 
+            {
+                Manager.MainFrame.Navigate(new admin());
+            }
+            if (login.Text == "user" && password.Text == "12345")
+            {
+                Manager.MainFrame.Navigate(new user());
+            }
         }
+
+        
     }
 }

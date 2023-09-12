@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\205\DemoEkzamen\Каркас приложений\TourAgenstvo\TourAgenstvo\App.xaml
-11151548125
+4-69238630
 
-5-2017746502
+91233851243
 13-1505183044
-MainWindow.xaml;
+pages\avtorizacia.xaml;pages\admin.xaml;MainWindow.xaml;pages\user.xaml;
 
 False
 

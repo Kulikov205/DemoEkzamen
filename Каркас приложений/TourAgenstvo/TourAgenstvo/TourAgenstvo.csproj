@@ -55,10 +55,28 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="classes\Manager.cs" />
+    <Compile Include="pages\avtorizacia.xaml.cs">
+      <DependentUpon>avtorizacia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pages\user.xaml.cs">
+      <DependentUpon>user.xaml</DependentUpon>
+    </Compile>
+    <Page Include="pages\avtorizacia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pages\admin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="pages\admin.xaml.cs">
+      <DependentUpon>admin.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -67,6 +85,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="pages\user.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -95,9 +117,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="classes\" />
     <Folder Include="models\" />
-    <Folder Include="pages\" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="logo.png" />

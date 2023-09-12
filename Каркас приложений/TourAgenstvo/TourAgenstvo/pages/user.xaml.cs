@@ -16,20 +16,18 @@ using System.Windows.Shapes;
 namespace TourAgenstvo
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для user.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class user : Page
     {
-        public MainWindow()
+        public user()
         {
             InitializeComponent();
-            MainFrame.Navigate(new avtorizacia());
-            Manager.MainFrame = MainFrame;
         }
 
-        private void Back_Click(object sender, RoutedEventArgs e)
+        private void Back(object sender, RoutedEventArgs e)
         {
-            
+            Manager.MainFrame.Navigate(new avtorizacia());
         }
     }
 }

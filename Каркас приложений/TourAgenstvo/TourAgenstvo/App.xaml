@@ -4,6 +4,12 @@
              xmlns:local="clr-namespace:TourAgenstvo"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Aqua" />
+            <Setter Property="Width" Value="40" />
+            <Setter Property="Margin" Value="40" />
+            <Setter Property="FontStyle" Value="Oblique"/>
+        </Style>
+        
     </Application.Resources>
 </Application>
