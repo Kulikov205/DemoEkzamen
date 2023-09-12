@@ -7,6 +7,7 @@
 2. база данных(EREntity-Relationship - сущность связь)</br>
 Из ПО, файлов для импорта и задания, необходимо найти информацию для БД</br>
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/5c12dae3-c9b3-4773-93e5-e7a9e0fefb4b)
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/7419ea43-9905-47d0-b7f1-0790f6efb07c)
 
 3. деятельности(Блок-схема(activity)) - может не быть</br>
 Будет дан процесс для которого её сторить(процесс бронирования отеля) </br>
