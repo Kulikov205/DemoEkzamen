@@ -9,20 +9,24 @@
       Title="avtorizacia">
 
     <Grid>
-        
         <Grid.RowDefinitions>
-            <RowDefinition Height="auto" ></RowDefinition>
-            <RowDefinition Height="*" ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
-        
+       
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
             <TextBlock VerticalAlignment="Center" FontSize="20">Авторизация</TextBlock>
+
             <TextBlock VerticalAlignment="Center">Логин</TextBlock>
             <TextBox Name="login" Width="100"></TextBox>
+
             <TextBlock VerticalAlignment="Center">Пароль</TextBlock>
-            <TextBox Name="password" Width="100"></TextBox>
-            <Button Click="Vxod" Width="100" Background="#FF78F3FF">Войти</Button>
+            <PasswordBox Name="passwordBox" Width="100" PasswordChar="•" />
+            <TextBox Name="password" Width="100" Visibility="Collapsed" />
+            <CheckBox Name="showPasswordCheckBox" Content="Показать пароль" VerticalAlignment="Center" Checked="Check_Pass" Unchecked="Check_Pass" />
+            
+
+            <Button Click="Vxod">Войти</Button>
         </StackPanel>
-        
     </Grid>
 </Page>

@@ -27,9 +27,6 @@ namespace TourAgenstvo
             Manager.MainFrame = MainFrame;
         }
 
-        private void Back_Click(object sender, RoutedEventArgs e)
-        {
-            
-        }
+       
     }
 }

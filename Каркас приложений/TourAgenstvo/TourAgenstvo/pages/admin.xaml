@@ -11,6 +11,6 @@
     <Grid>
         <TextBlock>Administrator</TextBlock>
 
-        <Button Click="Back" Width="40" Height="20" HorizontalAlignment="Right" VerticalAlignment="Bottom">Back</Button>
+        <Button Click="Back" HorizontalAlignment="Right" VerticalAlignment="Bottom">Back</Button>
     </Grid>
 </Page>
