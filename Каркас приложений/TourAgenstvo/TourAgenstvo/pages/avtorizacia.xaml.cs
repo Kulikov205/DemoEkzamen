@@ -37,19 +37,17 @@ namespace TourAgenstvo
             }
         }
 
-        private void Check_Pass(object sender, RoutedEventArgs e)
+        private void Checked(object sender, RoutedEventArgs e)
         {
-            if (showPasswordCheckBox.IsChecked == true)
-            {
-                passwordBox.Visibility = Visibility.Collapsed;
-                password.Visibility = Visibility.Visible;
-                password.Text = passwordBox.Password;
-            }
-            else
-            {
-                passwordBox.Visibility = Visibility.Visible;
-                password.Visibility = Visibility.Collapsed;
-            }
+            passwordBox.Visibility = Visibility.Collapsed;
+            password.Visibility = Visibility.Visible;
+            password.Text = passwordBox.Password;
+        }
+
+        private void Unchecked(object sender, RoutedEventArgs e)
+        {
+            passwordBox.Visibility = Visibility.Visible;
+            password.Visibility = Visibility.Collapsed;
         }
 
     }

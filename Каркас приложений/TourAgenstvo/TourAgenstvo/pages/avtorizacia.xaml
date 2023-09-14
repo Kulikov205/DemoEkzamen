@@ -23,7 +23,7 @@
             <TextBlock VerticalAlignment="Center">Пароль</TextBlock>
             <PasswordBox Name="passwordBox" Width="100" PasswordChar="•" />
             <TextBox Name="password" Width="100" Visibility="Collapsed" />
-            <CheckBox Name="showPasswordCheckBox" Content="Показать пароль" VerticalAlignment="Center" Checked="Check_Pass" Unchecked="Check_Pass" />
+            <CheckBox Name="Check_Pass" Content="Показать пароль" VerticalAlignment="Center" Checked="Checked" Unchecked="Unchecked" />
             
 
             <Button Click="Vxod">Войти</Button>
