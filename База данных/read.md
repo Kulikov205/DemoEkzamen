@@ -5,4 +5,4 @@
 3НФ: таблицы должны сформированные в таблицах(Номер автосалона)</br>
 4НФ: </br>
 
-
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/a3588c12-63fc-4b08-a380-7beae8b71944)
