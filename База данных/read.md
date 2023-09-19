@@ -11,3 +11,7 @@
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/24dec079-f3eb-4afa-8db5-bfcc26d456ac)
 
 
+
+
+https://github.com/Kulikov205/DemoEkzamen/assets/97594290/560ba11e-cb0d-4d33-b89f-9ca7b829abfa
+
