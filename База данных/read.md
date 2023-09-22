@@ -10,8 +10,11 @@
 
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/24dec079-f3eb-4afa-8db5-bfcc26d456ac)
 
-
-
-
 https://github.com/Kulikov205/DemoEkzamen/assets/97594290/560ba11e-cb0d-4d33-b89f-9ca7b829abfa
 
+Алгоритм импорта:
+1. На пустых листах создать id (в бд включаем автоинкремент ПОСЛЕ того как перенесли данные из Excel)
+2. Ищем ячейки в которых несколько значений, разделяем их на столбцы
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/3024098c-56fe-4e31-b523-aac9675836f5)
+
+3. Всегда копировать 1 строку
