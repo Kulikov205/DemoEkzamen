@@ -1,3 +1,9 @@
+https://drive.google.com/file/d/1V4VTDELE4N8Y0hPOXkWm3v2HuwobxwvD/view?usp=sharing
+
+И напишите: надо ли повысить звук, убрать моменты с ускорением или где-то добавить коментарии
+
+---
+
 1. Диаграмма</br>
 Изучить описание предметной области: [Турагенство](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx); [Глазки-Save](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Глазки-Save/Общие%20ресурсы/Введение%20ПО_G.pdf); [Свияжские холмы](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/7%20задание%202022/09_1.2-2022_8/Вариант%208/Свияжские%20холмы/Общие%20ресурсы/Описание%20предметной%20области.pdf); [ООО "Руль"](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%202023/КОД%201.1%202023-2025%20ВАРИАНТ%203.rar)</br>
 Определить функциональные требования к системе.</br>
