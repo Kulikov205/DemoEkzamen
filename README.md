@@ -1,4 +1,3 @@
-https://drive.google.com/file/d/1V4VTDELE4N8Y0hPOXkWm3v2HuwobxwvD/view?usp=sharing
 
 
 ---
