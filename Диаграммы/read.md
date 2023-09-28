@@ -1,7 +1,7 @@
 Диаграммы:
 1. вариантов использования(use case)
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/61472817-aaf9-478f-bc8a-3102de644abd)
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/3bb8c7e3-e8f2-40e0-83fc-880e64a48d5a)</br>
+
 
 В файле ПО нужно найти пользователей системы и действия которые они могут совершать</br>
 2. база данных(EREntity-Relationship - сущность связь)</br>
@@ -25,3 +25,5 @@
 
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/c690d765-589d-46b9-b1a7-51e68b6f9aa3)</br>
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/af5da3cd-eaa5-4761-9a9d-63673cf24eee)</br>
+
+
