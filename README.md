@@ -1,6 +1,6 @@
 [тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)[.](https://github.com/DumSp1ro?tab=repositories)
 
-Регистрацию можно просто готовый рабочий код показать или на видео в готовом проекте её с 0 написать надо ?
+
 
 ---
 
