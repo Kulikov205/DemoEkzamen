@@ -1,4 +1,4 @@
-[Тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)
+[Тыкнут](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)[ь](https://github.com/DumSp1ro)
 
 
 
